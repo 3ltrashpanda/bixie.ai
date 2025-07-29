@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+# Normal URL 
+pyghidra
+transformers
+scikit-learn
+numpy
+checkov
+bandit
+semgrep
+flask
+requests
+transformers
+chromadb
+matplotlib
+ipywidgets
+scikit-learn
+joblib
