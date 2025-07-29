@@ -1,3 +1,5 @@
+# **** THIS IS A WORK IN PROGESS FOR PERSONAL USE ***
+
 # 🛡️ Bixie – Autonomous Vulnerability Detection Framework
 
 **Bixie** is an AI-powered cybersecurity research agent designed to automatically discover vulnerabilities in binary executables, source code, and cloud configurations. It blends machine learning, static/dynamic analysis, and cloud misconfiguration detection into an extensible agent-based architecture.
